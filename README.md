@@ -9,7 +9,7 @@
 - 🎓 I am a `Computer Science and AI Graduate` from the Higher Technological Institute, 10th of Ramadan
 - 🔭 I’m currently working on various projects using .NET Core and related technologies.
 - 🌱 I’m currently exploring `Microservices` and `Cloud Computing`.
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **ahmedfandoud077@gmail.com**
 - 🤔 I’m currently open for new `job opportunities`.
 - 💡 Always eager to `learn new technologies` and improve my skills.
 - 🚀 Passionate about creating scalable and maintainable backend systems.
