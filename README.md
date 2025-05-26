@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfandoud&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfandoud" /> </p>
 
-<br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
-<br>
 
----
 
 - 🧪 I have hands-on experience in `Manual Testing`, `API Testing (Postman)`, `Bug Reporting`, and writing `Test Cases`.
 - 📚 I completed professional training in `Software Testing` (ISTQB Foundation Level) and `.NET Development` at Route Academy.
