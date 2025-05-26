@@ -5,18 +5,21 @@
 
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
+<br>
 
-- 🎓 I am a `Computer Science and AI Graduate` from the Higher Technological Institute, 10th of Ramadan.
-- 🔭 I’m currently working on various projects using `ASP.NET Core`, `Entity Framework Core`, and `SQL Server`.
-- 🌱 I’m currently exploring `Microservices`, `Cloud Computing`, and advanced testing strategies.
 - 🧪 I have hands-on experience in `Manual Testing`, `API Testing (Postman)`, `Bug Reporting`, and writing `Test Cases`.
 - 📚 I completed professional training in `Software Testing` (ISTQB Foundation Level) and `.NET Development` at Route Academy.
-- 💻 My work includes building `secure`, `scalable`, and `modular` APIs using clean architecture and design patterns.
-- 🔐 Skilled in implementing `JWT Authentication`, `Role-Based Access`, and `Security Best Practices` in web applications.
-- 🤔 I’m currently open for new `job opportunities` in either `Software Testing` or `.NET Backend Development`.
+- 🧠 Proficient in writing `Functional Requirements`, designing `Test Scenarios`, and managing `Test Plans`.
+- 🔍 Skilled in identifying `bugs`, preparing detailed `bug reports`, and working with Agile tools like `Jira` and `Trello`.
+- 🧩 Familiar with `Regression Testing`, `Smoke Testing`, and `Exploratory Testing` across various environments.
+- 🔭 Also currently working on various projects using `ASP.NET Core`, `Entity Framework Core`, and `SQL Server`.
+- 💻 My backend development work includes building `secure`, `scalable`, and `modular` APIs using clean architecture and design patterns.
+- 🔐 Implemented `JWT Authentication`, `Role-Based Access`, and applied `Security Best Practices` in multiple web applications.
+- 🌱 I’m currently exploring `Microservices`, `Cloud Computing`, and advanced testing strategies.
+- 🤔 I’m open for new `job opportunities` in either `Software Testing` or `.NET Backend Development`.
 - 💡 Always eager to `learn new technologies`, improve my skills, and stay updated with industry trends.
-- 🚀 Passionate about building `robust backend systems`, ensuring `software quality`, and contributing to real-world solutions.
-
+- 🚀 Passionate about delivering high-quality software by combining `testing excellence` and `robust backend systems`.
+- 🎓 I am a `Computer Science and AI Graduate` from the Higher Technological Institute, 10th of Ramadan.
 <br>
 
 ## 📩 Connect with me
