@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
+  <img src="[https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif](https://www.freepik.com/free-vector/software-tester-concept-illustration_33533011.htm#fromView=keyword&page=1&position=0&uuid=5cecc850-eb3e-421f-9dc4-e99e5a799e97&query=Code+Testing)" width="250px"/>
 </p>
 
 ---
