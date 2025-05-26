@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud Abo Fandoud</h1>
 <h3 align="center">Software Test Engineer | Backend Developer (.NET Core) | ISTQB Certified</h3>
 
-<p align="center">
+<div style="text-align: left;">
   <img src="https://komarev.com/ghpvc/?username=ahmedfandoud&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfandoud" />
-</p>
+</div>
 
-<p align="center">
+<div style="text-align: left; margin-top: 10px;">
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
-</p>
+</div>
+
 
 ---
 
