@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud Abo Fandoud</h1>
 <h3 align="center">Software Test Engineer | Backend Developer (.NET Core) | ISTQB Certified</h3>
 
-<div style="text-align: Right;">
-  <img src="https://komarev.com/ghpvc/?username=ahmedfandoud&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfandoud" />
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 20px; margin-top: 10px;">
+  <div style="text-align: right;">
+    <img src="https://komarev.com/ghpvc/?username=ahmedfandoud&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfandoud" />
+  </div>
+  <div>
+    <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
+  </div>
 </div>
 
-<div style="text-align: Right; margin-top: 10px;">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
-</div>
+---
 
 - 🧪 I have hands-on experience in `Manual Testing`, `API Testing (Postman)`, `Bug Reporting`, and writing `Test Cases`.
 - 📚 I completed professional training in `Software Testing` (ISTQB Foundation Level) and `.NET Development` at Route Academy.
@@ -59,6 +62,7 @@
     </a>
     <a href="https://www.java.com/" title="Java">
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    </a>
     <a href="https://www.postman.com/" title="Postman">
         <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
     </a>
@@ -74,5 +78,4 @@
     <a href="https://www.sqlshack.com/" title="SQL Server">
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
     </a>
-
 </p>
