@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/software-tester-concept-illustration_114360-12815.jpg?ga=GA1.1.2085681791.1747694330&semt=ais_items_boosted&w=740" width="400px"/>
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 </p>
+
 ---
 
 - 🧪 I have hands-on experience in `Manual Testing`, `API Testing (Postman)`, `Bug Reporting`, and writing `Test Cases`.
