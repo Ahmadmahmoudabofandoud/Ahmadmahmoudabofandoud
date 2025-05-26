@@ -61,49 +61,6 @@
     </a>
     <a href="https://www.java.com/" title="Java">
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" title="TypeScript">
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    </a>
-    <a href="https://www.sqlshack.com/" title="SQL Server">
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-    </a>
-
-    <!-- Frontend -->
-    <a href="https://www.w3.org/TR/html5/" title="HTML5">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    </a>
-    <a href="https://www.w3.org/Style/CSS/" title="CSS3">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    </a>
-    <a href="https://getbootstrap.com/" title="Bootstrap">
-        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    </a>
-    <a href="https://jquery.com/" title="jQuery">
-        <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-    </a>
-
-    <!-- Tools -->
-    <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    </a>
-    <a href="https://visualstudio.microsoft.com/" title="Visual Studio">
-        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-    </a>
-    <a href="https://git-scm.com/" title="Git">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    </a>
-    <a href="https://github.com/" title="GitHub">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://gitforwindows.org/" title="Git Bash">
-        <img src="https://img.shields.io/badge/Git%20Bash-000000.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash"/>
-    </a>
-
-    <!-- Testing -->
     <a href="https://www.postman.com/" title="Postman">
         <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
     </a>
@@ -116,4 +73,8 @@
     <a href="https://trello.com/" title="Trello">
         <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
     </a>
+    <a href="https://www.sqlshack.com/" title="SQL Server">
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+    </a>
+
 </p>
