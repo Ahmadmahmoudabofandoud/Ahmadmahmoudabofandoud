@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud Abo Fandoud</h1>
-<h3 align="center">Backend Developer .NET Core</h3>
+<h3 align="center">Software Test Engineer | Backend Developer (.NET Core) | ISTQB Certified  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfandoud&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfandoud" /> </p>
 
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 
-- 🎓 I am a `Computer Science and AI Graduate` from the Higher Technological Institute, 10th of Ramadan
-- 🔭 I’m currently working on various projects using .NET Core and related technologies.
-- 🌱 I’m currently exploring `Microservices` and `Cloud Computing`.
-- 📫 How to reach me: **ahmedfandoud077@gmail.com**
-- 🤔 I’m currently open for new `job opportunities`.
-- 💡 Always eager to `learn new technologies` and improve my skills.
-- 🚀 Passionate about creating scalable and maintainable backend systems.
+- 🎓 I am a `Computer Science and AI Graduate` from the Higher Technological Institute, 10th of Ramadan.
+- 🔭 I’m currently working on various projects using `ASP.NET Core`, `Entity Framework Core`, and `SQL Server`.
+- 🌱 I’m currently exploring `Microservices`, `Cloud Computing`, and advanced testing strategies.
+- 🧪 I have hands-on experience in `Manual Testing`, `API Testing (Postman)`, `Bug Reporting`, and writing `Test Cases`.
+- 📚 I completed professional training in `Software Testing` (ISTQB Foundation Level) and `.NET Development` at Route Academy.
+- 💻 My work includes building `secure`, `scalable`, and `modular` APIs using clean architecture and design patterns.
+- 🔐 Skilled in implementing `JWT Authentication`, `Role-Based Access`, and `Security Best Practices` in web applications.
+- 🤔 I’m currently open for new `job opportunities` in either `Software Testing` or `.NET Backend Development`.
+- 💡 Always eager to `learn new technologies`, improve my skills, and stay updated with industry trends.
+- 🚀 Passionate about building `robust backend systems`, ensuring `software quality`, and contributing to real-world solutions.
 
 <br>
 
